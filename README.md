@@ -13,3 +13,7 @@ This is a simple program that can run a HMC markov chain on a simple 1-dimension
 
 "Ham Traj sim"
 This runs the Hamiltonian Markov Chain, again, on a simple normal distribution, but produces an instructive plot of the trajectory, which is helpful with the intuition of the process.
+
+"Hamiltonian_Monte_Carlo Report D4" is my full project report and background research. It also contains my program in the appendix.
+
+"Hamiltonian Monte Carlo Slides" is my breakdown of the report for presentation purposes. It mainly highlights the results of the project, with some background mathematics and intuition.
